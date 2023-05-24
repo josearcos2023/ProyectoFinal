@@ -12,3 +12,22 @@
     height: 200px; /* Establecer altura fija */
     object-fit: cover; /* Ajustar la imagen para llenar el espacio sin distorsionarla */
   }
+
+.principal-square {
+  max-width: 1200px;
+  width: 800px;
+  height: 70vh; 
+}
+
+
+.form-square {
+  max-width: 1000px;
+  width: 700px;
+  height: 55vh;
+}
+
+.in-form-square {
+  max-width: 900px;
+  width: 650px;
+  height: 50vh;
+}
